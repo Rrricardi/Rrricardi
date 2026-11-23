@@ -6,13 +6,7 @@ Apasionado por la tecnología y la creación de soluciones eficientes, con exper
 
 🔍 Me interesa trabajar en proyectos que combinan la programación, el diseño web y el análisis de datos, siempre buscando mejorar el rendimiento y la usabilidad.
 
-🛠️ Tecnologías clave:
 
-Front-end: HTML5, CSS3, JavaScript (DOM, ES6+)
-
-Back-end / Data: Python (pandas, numpy), SQL
-
-Herramientas: Git, GitHub, VS Code
 
 🚀 Siempre abierto a aprender nuevas tecnologías y colaborar en proyectos desafiantes.
 ## API Reference
