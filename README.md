@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner de bienvenida dinámico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2C59,100:4f46e5&height=200&section=header&text=¡Hola!%20Soy%20[Tu%20Nombre]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20|%20Construyendo%20soluciones%20digitales&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2C59,100:4f46e5&height=200&section=header&text=¡Hola!%20Soy%20[Rafael%20Ricardo]&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20|%20Construyendo%20soluciones%20digitales&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Contador de visitas al perfil -->
 <p align="center">
